@@ -4,16 +4,13 @@ For this assignment, you'll create some initial plans for your project.
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/firetending/liftoff-assignments/blob/master/P3-Project_Planning/some%20wireframes%20(p3%20project%20planning).png
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+project board: https://trello.com/b/vIOd4eTg/project-board
+user story mapping: https://trello.com/b/trmKAzyf/user-story-mapping
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/firetending/legendary-dollop
